@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#c8e6c9"/>
+    </linearGradient>
+  </defs>
+  <rect fill="url(#g)" width="640" height="360"/>
+  <circle cx="180" cy="260" r="48" fill="#2e7d32"/>
+  <circle cx="180" cy="260" r="28" fill="#a5d6a7"/>
+  <circle cx="360" cy="260" r="28" fill="#2e7d32"/>
+  <rect x="150" y="190" width="220" height="40" rx="8" fill="#388e3c"/>
+  <rect x="300" y="150" width="90" height="60" rx="6" fill="#66bb6a"/>
+  <rect x="310" y="158" width="35" height="35" fill="#bbdefb"/>
+  <rect x="350" y="158" width="35" height="35" fill="#bbdefb"/>
+  <text x="24" y="36" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#1b5e20">Tractor</text>
+</svg>
+

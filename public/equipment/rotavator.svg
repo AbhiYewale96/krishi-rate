@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect fill="#fffde7" width="640" height="360"/>
+  <rect x="120" y="190" width="300" height="30" rx="6" fill="#f57f17"/>
+  <rect x="150" y="160" width="240" height="35" rx="6" fill="#ffb300"/>
+  <circle cx="150" cy="240" r="20" fill="#6d4c41"/>
+  <circle cx="210" cy="240" r="20" fill="#6d4c41"/>
+  <circle cx="270" cy="240" r="20" fill="#6d4c41"/>
+  <circle cx="330" cy="240" r="20" fill="#6d4c41"/>
+  <circle cx="390" cy="240" r="20" fill="#6d4c41"/>
+  <text x="24" y="36" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#e65100">Rotavator</text>
+</svg>
+
